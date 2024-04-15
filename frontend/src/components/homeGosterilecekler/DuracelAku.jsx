@@ -264,7 +264,7 @@ const DuracelAku = () => {
               fontSize:"22px"
             }}
           >
-            DURACEL AKÜ
+            DURACEL  AKÜ
           </h4>
           <hr />
           <div>
