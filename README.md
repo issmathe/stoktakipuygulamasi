@@ -1,0 +1,3 @@
+# stoktakipuygulamasi
+# stoktakipuygulamasi
+# stoktakipuygulamasi
