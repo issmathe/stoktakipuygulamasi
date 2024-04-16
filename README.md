@@ -1,2 +1,3 @@
-# stoktakipuygulamasi bir mern projesidir.
-Bu projeyi <a href="https://www.example.com">burada tıklayınız</a> adresinden görebilirsiniz. 
+# stoktakipuygulamasi
+Bu proje bir mern projesidir.
+Bu projeyi adresinden görebilirsiniz. <a href="https://www.example.com">buraya tıklayınız</a> 
